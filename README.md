@@ -13,13 +13,13 @@
 </br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Nivesh98" height="150" alt="stats graph"  />
-<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nivesh98&show_icons=true&theme=dracula"/> -->
+<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EA-Gayan&show_icons=true&theme=dracula"/> -->
  
   
 </div>
 </br>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nivesh98&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EA-Gayan&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 
 </br>
@@ -44,13 +44,8 @@
   <a href="https://www.linkedin.com/in/janith-gayan/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-
-  <a href="https://medium.com/@niveshncwanninayaka" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  </a>
-
-
-  <a href="niveshncwanninayaka@gmail.com" target="_blank">
+  
+  <a href="janith.gayan141@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 
@@ -99,15 +94,5 @@ Final-year undergraduate with a strong enthusiasm for software development follo
 * <img src="https://praneeth.gnomezgrave.com/assets/img/icons/fb.png" height="20"/>&nbsp; [Facebook](https://www.facebook.com/gnomezGrave)
 
 
-### Wanna get something done?
-
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/fiverr.png" height="20"/>&nbsp; [fiverr](https://www.fiverr.com/users/gnomezgrave)
-
-
-### Wanna learn from me?
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/udemy.png" height="20"/>&nbsp; [Udemy](https://www.udemy.com/user/praneeth-peiris/)
-
-### Wanna sponsor me?
- -->
 
 
