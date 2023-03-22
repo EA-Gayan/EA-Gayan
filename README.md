@@ -15,6 +15,12 @@
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=EA-Gayan" height="150" alt="stats graph"  />
 <!--     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EA-Gayan&show_icons=true&theme=dracula"/> -->
  
+  ## About me <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
+- IT Undergraduate
+- Programmer
+- Problem Solver
+- Teamwoker
+<br><br>
   
 </div>
 </br>
