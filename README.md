@@ -70,7 +70,7 @@ Final-year undergraduate with a strong enthusiasm for software development follo
 
 ### My stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gnomezgrave&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=gnomezgrave&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />-->
 
 ### Top Repositories
 
