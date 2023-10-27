@@ -32,7 +32,7 @@
 
 <!-- Connect with Me Section -->
 ## Connect with Me
-- <a href="LinkedIn Profile Link" target="_blank"><img src="LinkedIn Icon URL" height="35" alt="LinkedIn Logo" /></a>
+- <a href="https://similarpng.com/beautiful-linkedin-logo-png/" target="_blank"><img src="LinkedIn Icon URL" height="35" alt="LinkedIn Logo" /></a>
 - <a href="Email Address" target="_blank"><img src="Gmail Icon URL" height="35" alt="Gmail Logo" /></a>
 - ...
 
