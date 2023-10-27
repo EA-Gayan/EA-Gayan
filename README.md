@@ -36,26 +36,19 @@
 - <a href="Email Address" target="_blank"><img src="Gmail Icon URL" height="35" alt="Gmail Logo" /></a>
 - ...
 
-<!-- Education Section (Optional) -->
+<!-- Education Section (Optional) 
 ## Education
 - Your Degree, University, Graduation Year
-- ...
+- ... -->
 
-<!-- Certificates Section (Optional) -->
-## Certificates
-- Certificate Name, Issuing Organization
-- ...
+
 
 <!-- Personal Interests Section (Optional) -->
 ## Personal Interests
 - List your hobbies and interests.
 - ...
 
-<!-- Quotes or Testimonials Section (Optional) -->
-## Quotes or Testimonials
-- "Quote 1" - Person 1
-- "Quote 2" - Person 2
-- ...
+
 
 <!-- Add more sections as needed -->
 
