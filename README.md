@@ -30,8 +30,8 @@
 
 <!-- Connect with Me Section -->
 ## Connect with Me
-- <a href="https://www.linkedin.com/in/janith-gayan/" target="_blank"></a>
-- <a href="janith.gayan141@gmail.com" target="_blank"></a>
+- <a href="https://www.linkedin.com/in/janith-gayan/" target="_blank">https://www.linkedin.com/in/janith-gayan</a>
+- <a href="janith.gayan141@gmail.com" target="_blank">janith.gayan141@gmail.com</a>
 
 <!-- Education Section (Optional) 
 ## Education
