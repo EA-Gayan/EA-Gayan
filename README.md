@@ -8,7 +8,7 @@
 
 <!-- About Me Section -->
 ## About Me
-- Intern Software Engineer
+- Associate Software Engineer
 - Programmer
 - Problem Solver
 - Team Player
@@ -20,7 +20,7 @@
 
 <!-- Top Repositories Section -->
 ## Top Repository
-1. [Keth Bima](Link to Repo 1) - Description of Repo 1.
+1. [Keth Bima](https://github.com/EA-Gayan/Keth-Bima)
 
 
 <!-- Skills and Technologies Section -->
@@ -32,20 +32,21 @@
 
 <!-- Connect with Me Section -->
 ## Connect with Me
-- <a href="https://similarpng.com/beautiful-linkedin-logo-png/" target="_blank"><img src="LinkedIn Icon URL" height="35" alt="LinkedIn Logo" /></a>
-- <a href="Email Address" target="_blank"><img src="Gmail Icon URL" height="35" alt="Gmail Logo" /></a>
+- <a href="(https://www.linkedin.com/in/janith-gayan/)" target="_blank"><img src="(https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/108px-LinkedIn_icon.svg.png" height="35" alt="LinkedIn Logo" /></a>
+- <a href="(janith.gayan141@gmail.com)" target="_blank"><img src="(https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/250px-Gmail_icon_%282020%29.svg.png)" height="35" alt="Gmail Logo" /></a>
 - ...
 
 <!-- Education Section (Optional) 
 ## Education
-- Your Degree, University, Graduation Year
+BSc (Hons) in Information Technology at Sir John Kotelawala Defence University 2020-2023 (2nd class upper division)
 - ... -->
 
 
 
 <!-- Personal Interests Section (Optional) -->
 ## Personal Interests
-- List your hobbies and interests.
+- Playing badminton.
+- Playing video games.
 - ...
 
 
