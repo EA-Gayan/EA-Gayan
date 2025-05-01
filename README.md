@@ -1,10 +1,7 @@
 <!-- Replace "Your Name" with your name -->
-<h2 align="left">Hi 👋! I'm Your Gayan</h2>
+<h2 align="left">Hi 👋! I'm Gayan</h2>
 
 <!-- Your introduction or tagline -->
-<p align="center">
-  <a href="Your Website or Portfolio Link"><img src="Your Image URL" width="200" alt="Your Image Alt Text"></a>
-</p>
 
 <!-- About Me Section -->
 ## About Me
@@ -20,7 +17,7 @@
 
 <!-- Top Repositories Section -->
 ## Top Repository
-1. [Keth Bima](https://github.com/EA-Gayan/Keth-Bima)
+1. Keth Bima -(https://github.com/EA-Gayan/Keth-Bima)
 
 
 <!-- Skills and Technologies Section -->
