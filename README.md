@@ -35,7 +35,7 @@ MySQL,Neo4j
 **Tools & Practices:**  
 Git, GitHub, REST APIs, Agile Development
 
-
+<!-- language Section -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EA-Gayan&layout=compact)](https://github.com/EA-Gayan/github-readme-stats)
 
 <!-- Connect with Me Section -->
