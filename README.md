@@ -22,9 +22,19 @@
 
 <!-- Skills and Technologies Section -->
 ## Skills and Technologies
-- <img src="URL to Technology Icon" height="30" width="42" alt="Technology Name" />
-- <img src="URL to Technology Icon" height="30" width="42" alt="Technology Name" />
-- <img src="URL to Technology Icon" height="30" width="42" alt="Technology Name" />
+
+**Languages:**  
+JavaScript, TypeScript, C#, SQL, 
+
+**Frameworks & Libraries:**  
+React.js, Next.js, ASP.NET Core
+
+**Databases:**  
+MySQL,Neo4j
+
+**Tools & Practices:**  
+Git, GitHub, REST APIs, Agile Development
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EA-Gayan&layout=compact)](https://github.com/EA-Gayan/github-readme-stats)
 
