@@ -29,13 +29,12 @@
 
 <!-- Connect with Me Section -->
 ## Connect with Me
-- <a href="(https://www.linkedin.com/in/janith-gayan/)" target="_blank"><img src="(https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/108px-LinkedIn_icon.svg.png" height="35" alt="LinkedIn Logo" /></a>
-- <a href="(janith.gayan141@gmail.com)" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/250px-Gmail_icon_%282020%29.svg.png" height="35" alt="Gmail Logo" /></a>
+- <a href="https://www.linkedin.com/in/janith-gayan/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/108px-LinkedIn_icon.svg.png" height="35" alt="LinkedIn Logo" /></a>
+- <a href="janith.gayan141@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/250px-Gmail_icon_%282020%29.svg.png" height="35" alt="Gmail Logo" /></a>
 
 <!-- Education Section (Optional) 
 ## Education
 BSc (Hons) in Information Technology at Sir John Kotelawala Defence University 2020-2023 (2nd class upper division)
-- ... -->
 
 
 
@@ -43,7 +42,6 @@ BSc (Hons) in Information Technology at Sir John Kotelawala Defence University 2
 ## Personal Interests
 - Playing badminton.
 - Playing video games.
-- ...
 
 
 
