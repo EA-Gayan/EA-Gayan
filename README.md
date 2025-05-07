@@ -12,7 +12,9 @@
 
 <!-- GitHub Stats Section -->
 ## GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=EA-Gayan&show_icons=true&count_private=true&theme=dracula)
+</br>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EA-Gayan&show_icons=true&theme=gruvbox"/>
+</br>
 
 
 <!-- Top Repositories Section -->
