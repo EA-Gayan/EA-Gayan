@@ -38,7 +38,9 @@ MySQL,Neo4j
 Git, GitHub, REST APIs, Agile Development
 
 <!-- language Section -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EA-Gayan&layout=compact)](https://github.com/EA-Gayan/github-readme-stats)
+</br>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EA-Gayan&layout=compact&langs_count=8&theme=gruvbox"/>
+</br>
 
 <!-- Connect with Me Section -->
 ## Connect with Me
