@@ -19,7 +19,9 @@
 
 <!-- Top Repositories Section -->
 ## Top Repository
-1. Keth Bima -(https://github.com/EA-Gayan/Keth-Bima)
+
+1.POS System -(https://github.com/EA-Gayan/pos_system)
+2. Keth Bima -(https://github.com/EA-Gayan/Keth-Bima)
 
 
 <!-- Skills and Technologies Section -->
