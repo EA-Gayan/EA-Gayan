@@ -5,7 +5,7 @@
 
 <!-- About Me Section -->
 ## About Me
-- Associate Software Engineer
+- Software Engineer
 - Programmer
 - Problem Solver
 - Team Player
