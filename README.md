@@ -1,4 +1,4 @@
-<!-- Profile README: fixed version -->
+<!-- Profile README -->
 <h2 align="left">Hi 👋, I'm Gayan</h2>
 
 <!-- About Me Section -->
@@ -8,47 +8,44 @@
 - Problem Solver
 - Team Player
 
-<!-- GitHub Stats Section -->
-## GitHub Stats
-<br>
-<img alt="GitHub stats for EA-Gayan" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EA-Gayan&show_icons=true&theme=gruvbox"/>
-<br>
-
 <!-- Top Repositories Section -->
 ## Top Repositories
 
-1. [POS System](https://github.com/EA-Gayan/pos_system)
-2. [Keth Bima](https://github.com/EA-Gayan/Keth-Bima)
+1. [POS System](https://github.com/EA-Gayan/pos_system) ![Stars](https://img.shields.io/github/stars/EA-Gayan/pos_system?style=flat-square)
+2. [Keth Bima](https://github.com/EA-Gayan/Keth-Bima) ![Stars](https://img.shields.io/github/stars/EA-Gayan/Keth-Bima?style=flat-square)
 
 <!-- Skills and Technologies Section -->
 ## Skills and Technologies
 
-**Languages:**
-JavaScript, TypeScript, C#, SQL
+**Languages**
 
-**Frameworks & Libraries:**
-React.js, Next.js, ASP.NET Core
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Databases:**
-MySQL, Neo4j
+**Frameworks & Libraries**
 
-**Tools & Practices:**
-Git, GitHub, REST APIs, Agile Development
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-<!-- Languages Section -->
-<br>
-<img alt="Top languages used by EA-Gayan" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EA-Gayan&layout=compact&langs_count=8&theme=gruvbox"/>
-<br>
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+
+**Tools & Practices**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile%20Development-0052CC?style=for-the-badge)
 
 <!-- Connect with Me Section -->
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/janith-gayan/)
 - [janith.gayan141@gmail.com](mailto:janith.gayan141@gmail.com)
-
-<!-- Education Section (Optional)
-## Education
-BSc (Hons) in Information Technology at Sir John Kotelawala Defence University, 2020-2023 (2nd class upper division)
--->
 
 <!-- Personal Interests Section -->
 ## Personal Interests
